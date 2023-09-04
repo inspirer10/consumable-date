@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expiration-reminder/static/css/main.5f41524d.css",
+    "main.js": "/expiration-reminder/static/js/main.a2d2f122.js",
+    "index.html": "/expiration-reminder/index.html",
+    "main.5f41524d.css.map": "/expiration-reminder/static/css/main.5f41524d.css.map",
+    "main.a2d2f122.js.map": "/expiration-reminder/static/js/main.a2d2f122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f41524d.css",
+    "static/js/main.a2d2f122.js"
+  ]
+}
