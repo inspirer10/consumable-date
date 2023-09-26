@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/expiration-reminder/static/css/main.3c67bc60.css",
-    "main.js": "/expiration-reminder/static/js/main.7724e033.js",
+    "main.css": "/expiration-reminder/static/css/main.ae79d45f.css",
+    "main.js": "/expiration-reminder/static/js/main.f39f1874.js",
     "index.html": "/expiration-reminder/index.html",
-    "main.3c67bc60.css.map": "/expiration-reminder/static/css/main.3c67bc60.css.map",
-    "main.7724e033.js.map": "/expiration-reminder/static/js/main.7724e033.js.map"
+    "main.ae79d45f.css.map": "/expiration-reminder/static/css/main.ae79d45f.css.map",
+    "main.f39f1874.js.map": "/expiration-reminder/static/js/main.f39f1874.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c67bc60.css",
-    "static/js/main.7724e033.js"
+    "static/css/main.ae79d45f.css",
+    "static/js/main.f39f1874.js"
   ]
 }
